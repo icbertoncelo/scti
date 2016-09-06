@@ -2124,7 +2124,7 @@
 }
 
 .white {
-  background-color: #FFFFFF !important;
+  background-color: #ffffff  !important;
 }
 
 .white-text {
@@ -4246,8 +4246,8 @@ nav .input-field label.active {
 
 @media only screen and (min-width: 601px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 64px;
-    line-height: 64px;
+    height: 45px;
+    line-height: 45px;
   }
   .navbar-fixed {
     height: 64px;
