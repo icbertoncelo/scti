@@ -2448,7 +2448,7 @@ input,
 optgroup,
 select,
 textarea {
-  color: inherit;
+  color: #000000;
   /* 1 */
   font: inherit;
   /* 2 */
@@ -4957,7 +4957,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #039be5 ;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
